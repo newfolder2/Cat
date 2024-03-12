@@ -1,4 +1,4 @@
-#include "s21_cat.h"
+#include "cat.h"
 
 int main(int argc, char *argv[]) {
   struct for_flags flags[6] = {INIT_FLAGS};
